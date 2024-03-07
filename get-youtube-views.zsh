@@ -59,6 +59,8 @@ EXTERNAL_VIDEOS=(
     "Kubeshop - vcluster: fully functional virtual Kubernetes clusters & how they works https://www.youtube.com/live/1sSJk6i0nB8"
     "Kubeshop - From GitLab SaaS to GitLab self-managed on kubefirst https://www.youtube.com/watch?v=3YPg7-SIpPE"
     "Kubeshop - Adding applications to the kubefirst GitOps Catalog https://www.youtube.com/watch?v=ncKNvqJUrd4"
+    "Kubeshop - Deep dive on External Secrets Operator with Vault & using other providers https://www.youtube.com/watch?v=99r5QNwRh1M"
+    "Kubeshop - Get your resource requests "Just Right" with Goldilocks https://www.youtube.com/watch?v=DFwUfPVf1Ak"
 )
 
 YELLOW="\033[1;93m"
